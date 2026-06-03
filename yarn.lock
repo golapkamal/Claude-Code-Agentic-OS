@@ -221,16 +221,16 @@ __metadata:
   linkType: hard
 
 "@opencode-ai/plugin@npm:^1.15.10":
-  version: 1.15.10
-  resolution: "@opencode-ai/plugin@npm:1.15.10"
+  version: 1.15.13
+  resolution: "@opencode-ai/plugin@npm:1.15.13"
   dependencies:
-    "@opencode-ai/sdk": "npm:1.15.10"
+    "@opencode-ai/sdk": "npm:1.15.13"
     effect: "npm:4.0.0-beta.66"
     zod: "npm:4.1.8"
   peerDependencies:
-    "@opentui/core": ">=0.2.15"
-    "@opentui/keymap": ">=0.2.15"
-    "@opentui/solid": ">=0.2.15"
+    "@opentui/core": ">=0.2.16"
+    "@opentui/keymap": ">=0.2.16"
+    "@opentui/solid": ">=0.2.16"
   peerDependenciesMeta:
     "@opentui/core":
       optional: true
@@ -238,16 +238,16 @@ __metadata:
       optional: true
     "@opentui/solid":
       optional: true
-  checksum: 10c0/0d2437dcb4e0063d3933ccbf32f1130f511854e683464abde0abaf6dcdeda05cf63f6f2170c588aebbfa61bca297bc2815a4fddc6609746c4bcf68630e64878a
+  checksum: 10c0/57849fdb0753aec965c73c85d63803eb637ecf848937276fa20e2bc1937be8ae1b976d732dc6b8e21ae97f47d13eec1c38a90994b4861fc4e5b7f0bc086d11ab
   languageName: node
   linkType: hard
 
-"@opencode-ai/sdk@npm:1.15.10":
-  version: 1.15.10
-  resolution: "@opencode-ai/sdk@npm:1.15.10"
+"@opencode-ai/sdk@npm:1.15.13":
+  version: 1.15.13
+  resolution: "@opencode-ai/sdk@npm:1.15.13"
   dependencies:
     cross-spawn: "npm:7.0.6"
-  checksum: 10c0/db08a83cb7e705480c61877150c1882e5c38ffd0d122801f566dbfb187a1ddfdc6b8e0a146710271eee8dd950d7a823c32b5845a3a6e80280a0650c792d5f6a1
+  checksum: 10c0/40a57f2c19827e3d882281691dec12c527881be8c45409d704f10564fbd32ffe693da185215af432eae27f1775586fde87f70d46e90ec26171b8c0f3a21c31fc
   languageName: node
   linkType: hard
 
